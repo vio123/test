@@ -4,7 +4,7 @@ const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
   appName: 'test_firebase',
   webDir: 'build',
-  bundledWebRuntime: false
+  bundledWebRuntime: true
 };
 
 export default config;
